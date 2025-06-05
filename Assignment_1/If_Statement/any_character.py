@@ -1,0 +1,1 @@
+#Program to accept any character from the user
